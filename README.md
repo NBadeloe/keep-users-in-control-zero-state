@@ -1,10 +1,10 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+# FDND Boks
+Fdnd boks is een website voor de opleiding fdnd waar alle technieken worden gedocumenteerd en gesorteerd op sprint, semester en development livecycle.
 
 ## User Story
-<!-- Schrijf hier de User Story waar de Zero State over gaat-->
+Als admin kan ik technieken toevoegen, bewerken, inzien en verwijderen.
 
 ## Schetsen
 <!-- Toon de variaties die je hebt geschetst -->
