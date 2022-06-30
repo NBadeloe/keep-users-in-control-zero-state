@@ -7,10 +7,11 @@ Fdnd boks is een website voor de opleiding fdnd waar alle technieken worden gedo
 Als admin kan ik technieken toevoegen, bewerken, inzien en verwijderen.
 
 ## Schetsen
-<!-- Toon de variaties die je hebt geschetst -->
+![schetsen](https://github.com/NBadeloe/keep-users-in-control-zero-state/blob/main/sketch1.jpeg)
+![schetsen](https://github.com/NBadeloe/keep-users-in-control-zero-state/blob/main/sketch2.jpeg)
 
 ## 3 ontwerpen
-<!-- Toon de 3 ontwerpen die je in detai hebt uitgewerkt, leg de Visuele Hieratchie uit en noteer de feedback van de opdrachtgever -->
+
 
 
 
